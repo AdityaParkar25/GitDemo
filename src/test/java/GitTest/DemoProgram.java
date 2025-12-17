@@ -16,5 +16,13 @@ public class DemoProgram {
 		System.out.println("This is Demo4");
 		System.out.println("This is Demo5");
 	}
+	
+	
+	public void iosApps() {
+		
+		System.out.println("This is VN app");
+		System.out.println("This is Safari app");
+		
+	}
 
 }
