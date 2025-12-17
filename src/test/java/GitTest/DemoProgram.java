@@ -12,6 +12,9 @@ public class DemoProgram {
 		System.out.println("This is Demo2");
 		System.out.println("This is Demo3");
 		
+		// this is edited by American timezone
+		System.out.println("This is Demo4");
+		System.out.println("This is Demo5");
 	}
 
 }
